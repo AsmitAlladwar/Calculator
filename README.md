@@ -3,6 +3,8 @@
  # 🧮 Calculator #
 
 A clean and interactive Calculator ✖️➕➖➗ made with HTML, CSS, and JavaScript.
+< br>
+<br>
 
 ✨ Highlights
 
@@ -13,7 +15,6 @@ A clean and interactive Calculator ✖️➕➖➗ made with HTML, CSS, and Java
 ✅ Responsive design
 <br>
 ✅ Beginner-friendly code
-<br>
 <br>
 <br>
 <br>
